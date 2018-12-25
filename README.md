@@ -8,8 +8,8 @@ I have realised that while i am on second screen  and pressing hardware back of 
 <br/>
 <img  src="before_backhandler.gif" >
 
-I was not able to find some sample project which has demostrate  how to handle hardware back button of android with React Navigation 3 and Redux.
-So i have created this sample project . Below is Demo of project
+<b>I was not able to find some sample project which will demostrate  how to handle hardware back button of android with React Navigation 3 and Redux.
+So i have created this sample project . Below is Demo of project</b>
 
 <br/>
 
