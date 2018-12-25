@@ -6,11 +6,11 @@ I have realised that while i am on second screen  and pressing hardware back of 
 <br/>
 <br/>
 <br/>
-<img  src="before_backhandler.gif" >
+<img  src="before.gif" >
 
 <b>I was not able to find some sample project which will demostrate  how to handle hardware back button of android with React Navigation 3 and Redux.
 So i have created this sample project . Below is Demo of project</b>
 
 <br/>
 
-<img  src="after_backhandler.gif" >
+<img  src="after.gif" >
